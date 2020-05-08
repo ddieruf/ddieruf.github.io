@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Dieruf</title>
-    <link>http://dieruf.net/</link>
+    <link>https://dieruf.net/</link>
     <description>Recent content on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dieruf.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieruf.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ditch your domain joins and IWA in favor of single sign-on</title>
-      <link>http://dieruf.net/posts/ditch-your-domain-joins/</link>
+      <link>https://dieruf.net/posts/ditch-your-domain-joins/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/ditch-your-domain-joins/</guid>
+      <guid>https://dieruf.net/posts/ditch-your-domain-joins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>.NET and Kubernetes: Bringing Legacy .NET Into the Modern World with Pivotal Container Services</title>
-      <link>http://dieruf.net/posts/legacy-dotnet-pks/</link>
+      <link>https://dieruf.net/posts/legacy-dotnet-pks/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/legacy-dotnet-pks/</guid>
+      <guid>https://dieruf.net/posts/legacy-dotnet-pks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Windows Clusters on Kubernetes for Legacy .NET Applications Webinar</title>
-      <link>http://dieruf.net/posts/k8-windows-clusters/</link>
+      <link>https://dieruf.net/posts/k8-windows-clusters/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/k8-windows-clusters/</guid>
+      <guid>https://dieruf.net/posts/k8-windows-clusters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn Cloud-Native .NET Core Configuration Fundamentals with Steeltoe</title>
-      <link>http://dieruf.net/posts/dotnet-core-config-fundamentals/</link>
+      <link>https://dieruf.net/posts/dotnet-core-config-fundamentals/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/dotnet-core-config-fundamentals/</guid>
+      <guid>https://dieruf.net/posts/dotnet-core-config-fundamentals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polyglot PAS Demo</title>
-      <link>http://dieruf.net/posts/polyglot-pas-demo/</link>
+      <link>https://dieruf.net/posts/polyglot-pas-demo/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://dieruf.net/posts/polyglot-pas-demo/</guid>
+      <guid>https://dieruf.net/posts/polyglot-pas-demo/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Mergers, acquisitions, skill-sets, policies, preferences, heritage, operating systems; there are many reasons why a polyglot approach keeps your business moving. As enterprises switch to cloud-native, many are inevitably challenged with finding solutions that welcome many different runtimes. “I just want one platform. A place where a developer can choose the best runtime for their business needs.”&lt;/p&gt;
 &lt;p&gt;In this talk, you&amp;rsquo;ll hear a heart-warming story of tight deadlines, disparate teams, and challenging communications coming together to beat the competition to market.&lt;/p&gt;
@@ -65,57 +65,57 @@
     
     <item>
       <title>Q&amp;A With Pivotal’s David Dieruf: How To Deliver Better Software with Greater Velocity</title>
-      <link>http://dieruf.net/posts/deliver-better-software/</link>
+      <link>https://dieruf.net/posts/deliver-better-software/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/deliver-better-software/</guid>
+      <guid>https://dieruf.net/posts/deliver-better-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple Root Certificate Sharing for .NET Core Microservices With Steeltoe</title>
-      <link>http://dieruf.net/posts/root-certificate-sharing/</link>
+      <link>https://dieruf.net/posts/root-certificate-sharing/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/root-certificate-sharing/</guid>
+      <guid>https://dieruf.net/posts/root-certificate-sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Run .NET Framework Apps on a Modern Platform with an SMB Network Share? Steeltoe Makes It Easy.</title>
-      <link>http://dieruf.net/posts/smb-share-in-the-cloud/</link>
+      <link>https://dieruf.net/posts/smb-share-in-the-cloud/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/smb-share-in-the-cloud/</guid>
+      <guid>https://dieruf.net/posts/smb-share-in-the-cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steeltoe: Modernize .Net Apps for a Microservices Architecture</title>
-      <link>http://dieruf.net/posts/modernize-with-steeltoe/</link>
+      <link>https://dieruf.net/posts/modernize-with-steeltoe/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/modernize-with-steeltoe/</guid>
+      <guid>https://dieruf.net/posts/modernize-with-steeltoe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Ready to cf push? Great! Now, Think About These 5 Things Before You Write a Line of Code.</title>
-      <link>http://dieruf.net/posts/cf-push/</link>
+      <link>https://dieruf.net/posts/cf-push/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/cf-push/</guid>
+      <guid>https://dieruf.net/posts/cf-push/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://dieruf.net/about/</link>
+      <link>https://dieruf.net/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/about/</guid>
+      <guid>https://dieruf.net/about/</guid>
       <description>&lt;p&gt;&lt;figure&gt;
-    &lt;img src=&#34;http://dieruf.net/images/avatar.jpg&#34; height=&#34;300px&#34;/&gt; 
+    &lt;img src=&#34;https://dieruf.net/images/avatar.jpg&#34; height=&#34;300px&#34;/&gt; 
 &lt;/figure&gt;
 
 I took to technology in grade school. My best friend got two 486 desktops and a dog fighting game that claimed you could fly against each other. This was totally mind blowing! After many many many jumper configurations with the sound cards and some very crative serial networking, we did it! Little did I know I would be a life long technologist from that day forward.&lt;/p&gt;
@@ -129,10 +129,10 @@ I took to technology in grade school. My best friend got two 486 desktops and a 
     
     <item>
       <title>Contact</title>
-      <link>http://dieruf.net/contact/</link>
+      <link>https://dieruf.net/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/contact/</guid>
+      <guid>https://dieruf.net/contact/</guid>
       <description>&lt;p&gt;Follow me, &lt;a href=&#34;https://twitter.com/dierufdavid/&#34;&gt;@dierufdavid&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Email me, &lt;a href=&#34;mailto:david@dierufventures.com&#34;&gt;david@dierufventures.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Contribute with me, &lt;a href=&#34;https://github.com/ddieruf/&#34;&gt;github.com/ddieruf&lt;/a&gt;.&lt;/p&gt;
@@ -143,10 +143,10 @@ I took to technology in grade school. My best friend got two 486 desktops and a 
     
     <item>
       <title>First snippet</title>
-      <link>http://dieruf.net/snippets/first/</link>
+      <link>https://dieruf.net/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/snippets/first/</guid>
+      <guid>https://dieruf.net/snippets/first/</guid>
       <description>&lt;p&gt;This content is in &lt;code&gt;snippets/first/index.md&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;pwd&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
@@ -154,10 +154,10 @@ I took to technology in grade school. My best friend got two 486 desktops and a 
     
     <item>
       <title>Second snippet</title>
-      <link>http://dieruf.net/snippets/second/</link>
+      <link>https://dieruf.net/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/snippets/second/</guid>
+      <guid>https://dieruf.net/snippets/second/</guid>
       <description>&lt;p&gt;This content is in &lt;code&gt;snippets/second/index.md&lt;/code&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;ls -la
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
@@ -165,10 +165,10 @@ I took to technology in grade school. My best friend got two 486 desktops and a 
     
     <item>
       <title>Steeltoe</title>
-      <link>http://dieruf.net/projects/steeltoe/</link>
+      <link>https://dieruf.net/projects/steeltoe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/projects/steeltoe/</guid>
+      <guid>https://dieruf.net/projects/steeltoe/</guid>
       <description>&lt;p&gt;Not soon after joining Pivotal I was introduced to the Steeltoe project. Orginally it was meant to bring &lt;a href=&#34;https://spring.io/projects/spring-cloud&#34;&gt;Spring Cloud&lt;/a&gt; functions to .NET applications. Today it still keeps that core value but has expanded dramatically into other cloud functions to help .NET developers. It has also kept current with .NET&amp;rsquo;s evolution but supprting 2 different branches for legacy(Framework) and modern(Core &amp;amp; Standard) .NET.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://steeltoe.io&#34;&gt;Visit Steeltoe&amp;rsquo;s site&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/steeltoeoss&#34;&gt;Have a look at the project&lt;/a&gt;&lt;/p&gt;
@@ -177,10 +177,10 @@ I took to technology in grade school. My best friend got two 486 desktops and a 
     
     <item>
       <title>Windows Stemcell Concourse</title>
-      <link>http://dieruf.net/projects/windows-stemcell-concourse/</link>
+      <link>https://dieruf.net/projects/windows-stemcell-concourse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/projects/windows-stemcell-concourse/</guid>
+      <guid>https://dieruf.net/projects/windows-stemcell-concourse/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/cloudfoundry-community/windows-stemcell-concourse&#34;&gt;Have a look at the project&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cloud Foundry on David Dieruf</title>
-    <link>http://dieruf.net/categories/cloud-foundry/</link>
+    <link>https://dieruf.net/categories/cloud-foundry/</link>
     <description>Recent content in Cloud Foundry on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 06 May 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://dieruf.net/categories/cloud-foundry/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieruf.net/categories/cloud-foundry/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Polyglot PAS Demo</title>
-      <link>http://dieruf.net/posts/polyglot-pas-demo/</link>
+      <link>https://dieruf.net/posts/polyglot-pas-demo/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://dieruf.net/posts/polyglot-pas-demo/</guid>
+      <guid>https://dieruf.net/posts/polyglot-pas-demo/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Mergers, acquisitions, skill-sets, policies, preferences, heritage, operating systems; there are many reasons why a polyglot approach keeps your business moving. As enterprises switch to cloud-native, many are inevitably challenged with finding solutions that welcome many different runtimes. “I just want one platform. A place where a developer can choose the best runtime for their business needs.”&lt;/p&gt;
 &lt;p&gt;In this talk, you&amp;rsquo;ll hear a heart-warming story of tight deadlines, disparate teams, and challenging communications coming together to beat the competition to market.&lt;/p&gt;
@@ -29,46 +29,46 @@
     
     <item>
       <title>Q&amp;A With Pivotal’s David Dieruf: How To Deliver Better Software with Greater Velocity</title>
-      <link>http://dieruf.net/posts/deliver-better-software/</link>
+      <link>https://dieruf.net/posts/deliver-better-software/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/deliver-better-software/</guid>
+      <guid>https://dieruf.net/posts/deliver-better-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple Root Certificate Sharing for .NET Core Microservices With Steeltoe</title>
-      <link>http://dieruf.net/posts/root-certificate-sharing/</link>
+      <link>https://dieruf.net/posts/root-certificate-sharing/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/root-certificate-sharing/</guid>
+      <guid>https://dieruf.net/posts/root-certificate-sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Run .NET Framework Apps on a Modern Platform with an SMB Network Share? Steeltoe Makes It Easy.</title>
-      <link>http://dieruf.net/posts/smb-share-in-the-cloud/</link>
+      <link>https://dieruf.net/posts/smb-share-in-the-cloud/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/smb-share-in-the-cloud/</guid>
+      <guid>https://dieruf.net/posts/smb-share-in-the-cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Ready to cf push? Great! Now, Think About These 5 Things Before You Write a Line of Code.</title>
-      <link>http://dieruf.net/posts/cf-push/</link>
+      <link>https://dieruf.net/posts/cf-push/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/cf-push/</guid>
+      <guid>https://dieruf.net/posts/cf-push/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows Stemcell Concourse</title>
-      <link>http://dieruf.net/projects/windows-stemcell-concourse/</link>
+      <link>https://dieruf.net/projects/windows-stemcell-concourse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/projects/windows-stemcell-concourse/</guid>
+      <guid>https://dieruf.net/projects/windows-stemcell-concourse/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/cloudfoundry-community/windows-stemcell-concourse&#34;&gt;Have a look at the project&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

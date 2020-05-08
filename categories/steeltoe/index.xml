@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steeltoe on David Dieruf</title>
-    <link>http://dieruf.net/categories/steeltoe/</link>
+    <link>https://dieruf.net/categories/steeltoe/</link>
     <description>Recent content in Steeltoe on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dieruf.net/categories/steeltoe/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieruf.net/categories/steeltoe/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learn Cloud-Native .NET Core Configuration Fundamentals with Steeltoe</title>
-      <link>http://dieruf.net/posts/dotnet-core-config-fundamentals/</link>
+      <link>https://dieruf.net/posts/dotnet-core-config-fundamentals/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/dotnet-core-config-fundamentals/</guid>
+      <guid>https://dieruf.net/posts/dotnet-core-config-fundamentals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polyglot PAS Demo</title>
-      <link>http://dieruf.net/posts/polyglot-pas-demo/</link>
+      <link>https://dieruf.net/posts/polyglot-pas-demo/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://dieruf.net/posts/polyglot-pas-demo/</guid>
+      <guid>https://dieruf.net/posts/polyglot-pas-demo/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Mergers, acquisitions, skill-sets, policies, preferences, heritage, operating systems; there are many reasons why a polyglot approach keeps your business moving. As enterprises switch to cloud-native, many are inevitably challenged with finding solutions that welcome many different runtimes. “I just want one platform. A place where a developer can choose the best runtime for their business needs.”&lt;/p&gt;
 &lt;p&gt;In this talk, you&amp;rsquo;ll hear a heart-warming story of tight deadlines, disparate teams, and challenging communications coming together to beat the competition to market.&lt;/p&gt;
@@ -38,37 +38,37 @@
     
     <item>
       <title>Simple Root Certificate Sharing for .NET Core Microservices With Steeltoe</title>
-      <link>http://dieruf.net/posts/root-certificate-sharing/</link>
+      <link>https://dieruf.net/posts/root-certificate-sharing/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/root-certificate-sharing/</guid>
+      <guid>https://dieruf.net/posts/root-certificate-sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Run .NET Framework Apps on a Modern Platform with an SMB Network Share? Steeltoe Makes It Easy.</title>
-      <link>http://dieruf.net/posts/smb-share-in-the-cloud/</link>
+      <link>https://dieruf.net/posts/smb-share-in-the-cloud/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/smb-share-in-the-cloud/</guid>
+      <guid>https://dieruf.net/posts/smb-share-in-the-cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steeltoe: Modernize .Net Apps for a Microservices Architecture</title>
-      <link>http://dieruf.net/posts/modernize-with-steeltoe/</link>
+      <link>https://dieruf.net/posts/modernize-with-steeltoe/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/modernize-with-steeltoe/</guid>
+      <guid>https://dieruf.net/posts/modernize-with-steeltoe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steeltoe</title>
-      <link>http://dieruf.net/projects/steeltoe/</link>
+      <link>https://dieruf.net/projects/steeltoe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/projects/steeltoe/</guid>
+      <guid>https://dieruf.net/projects/steeltoe/</guid>
       <description>&lt;p&gt;Not soon after joining Pivotal I was introduced to the Steeltoe project. Orginally it was meant to bring &lt;a href=&#34;https://spring.io/projects/spring-cloud&#34;&gt;Spring Cloud&lt;/a&gt; functions to .NET applications. Today it still keeps that core value but has expanded dramatically into other cloud functions to help .NET developers. It has also kept current with .NET&amp;rsquo;s evolution but supprting 2 different branches for legacy(Framework) and modern(Core &amp;amp; Standard) .NET.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://steeltoe.io&#34;&gt;Visit Steeltoe&amp;rsquo;s site&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/steeltoeoss&#34;&gt;Have a look at the project&lt;/a&gt;&lt;/p&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spring on David Dieruf</title>
-    <link>http://dieruf.net/categories/spring/</link>
+    <link>https://dieruf.net/categories/spring/</link>
     <description>Recent content in Spring on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 09 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dieruf.net/categories/spring/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieruf.net/categories/spring/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Steeltoe: Modernize .Net Apps for a Microservices Architecture</title>
-      <link>http://dieruf.net/posts/modernize-with-steeltoe/</link>
+      <link>https://dieruf.net/posts/modernize-with-steeltoe/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/modernize-with-steeltoe/</guid>
+      <guid>https://dieruf.net/posts/modernize-with-steeltoe/</guid>
       <description></description>
     </item>
     

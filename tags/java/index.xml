@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on David Dieruf</title>
-    <link>http://dieruf.net/tags/java/</link>
+    <link>https://dieruf.net/tags/java/</link>
     <description>Recent content in Java on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 06 May 2019 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://dieruf.net/tags/java/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieruf.net/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Polyglot PAS Demo</title>
-      <link>http://dieruf.net/posts/polyglot-pas-demo/</link>
+      <link>https://dieruf.net/posts/polyglot-pas-demo/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://dieruf.net/posts/polyglot-pas-demo/</guid>
+      <guid>https://dieruf.net/posts/polyglot-pas-demo/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Mergers, acquisitions, skill-sets, policies, preferences, heritage, operating systems; there are many reasons why a polyglot approach keeps your business moving. As enterprises switch to cloud-native, many are inevitably challenged with finding solutions that welcome many different runtimes. “I just want one platform. A place where a developer can choose the best runtime for their business needs.”&lt;/p&gt;
 &lt;p&gt;In this talk, you&amp;rsquo;ll hear a heart-warming story of tight deadlines, disparate teams, and challenging communications coming together to beat the competition to market.&lt;/p&gt;

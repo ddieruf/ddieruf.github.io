@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on David Dieruf</title>
-    <link>http://dieruf.net/tags/windows/</link>
+    <link>https://dieruf.net/tags/windows/</link>
     <description>Recent content in Windows on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dieruf.net/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieruf.net/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ditch your domain joins and IWA in favor of single sign-on</title>
-      <link>http://dieruf.net/posts/ditch-your-domain-joins/</link>
+      <link>https://dieruf.net/posts/ditch-your-domain-joins/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/ditch-your-domain-joins/</guid>
+      <guid>https://dieruf.net/posts/ditch-your-domain-joins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>.NET and Kubernetes: Bringing Legacy .NET Into the Modern World with Pivotal Container Services</title>
-      <link>http://dieruf.net/posts/legacy-dotnet-pks/</link>
+      <link>https://dieruf.net/posts/legacy-dotnet-pks/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/legacy-dotnet-pks/</guid>
+      <guid>https://dieruf.net/posts/legacy-dotnet-pks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Windows Clusters on Kubernetes for Legacy .NET Applications Webinar</title>
-      <link>http://dieruf.net/posts/k8-windows-clusters/</link>
+      <link>https://dieruf.net/posts/k8-windows-clusters/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/k8-windows-clusters/</guid>
+      <guid>https://dieruf.net/posts/k8-windows-clusters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows Stemcell Concourse</title>
-      <link>http://dieruf.net/projects/windows-stemcell-concourse/</link>
+      <link>https://dieruf.net/projects/windows-stemcell-concourse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/projects/windows-stemcell-concourse/</guid>
+      <guid>https://dieruf.net/projects/windows-stemcell-concourse/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://github.com/cloudfoundry-community/windows-stemcell-concourse&#34;&gt;Have a look at the project&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

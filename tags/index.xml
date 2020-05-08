@@ -2,210 +2,210 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Dieruf</title>
-    <link>http://dieruf.net/tags/</link>
+    <link>https://dieruf.net/tags/</link>
     <description>Recent content in Tags on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dieruf.net/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieruf.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>.NET Framework</title>
-      <link>http://dieruf.net/tags/.net-framework/</link>
+      <link>https://dieruf.net/tags/.net-framework/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/.net-framework/</guid>
+      <guid>https://dieruf.net/tags/.net-framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domains</title>
-      <link>http://dieruf.net/tags/domains/</link>
+      <link>https://dieruf.net/tags/domains/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/domains/</guid>
+      <guid>https://dieruf.net/tags/domains/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IWA</title>
-      <link>http://dieruf.net/tags/iwa/</link>
+      <link>https://dieruf.net/tags/iwa/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/iwa/</guid>
+      <guid>https://dieruf.net/tags/iwa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows</title>
-      <link>http://dieruf.net/tags/windows/</link>
+      <link>https://dieruf.net/tags/windows/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/windows/</guid>
+      <guid>https://dieruf.net/tags/windows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kubernetes</title>
-      <link>http://dieruf.net/tags/kubernetes/</link>
+      <link>https://dieruf.net/tags/kubernetes/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/kubernetes/</guid>
+      <guid>https://dieruf.net/tags/kubernetes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PKS</title>
-      <link>http://dieruf.net/tags/pks/</link>
+      <link>https://dieruf.net/tags/pks/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/pks/</guid>
+      <guid>https://dieruf.net/tags/pks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows Containers</title>
-      <link>http://dieruf.net/tags/windows-containers/</link>
+      <link>https://dieruf.net/tags/windows-containers/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/windows-containers/</guid>
+      <guid>https://dieruf.net/tags/windows-containers/</guid>
       <description></description>
     </item>
     
     <item>
       <title>.net core</title>
-      <link>http://dieruf.net/tags/.net-core/</link>
+      <link>https://dieruf.net/tags/.net-core/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/.net-core/</guid>
+      <guid>https://dieruf.net/tags/.net-core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>configuration</title>
-      <link>http://dieruf.net/tags/configuration/</link>
+      <link>https://dieruf.net/tags/configuration/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/configuration/</guid>
+      <guid>https://dieruf.net/tags/configuration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Conferences</title>
-      <link>http://dieruf.net/tags/conferences/</link>
+      <link>https://dieruf.net/tags/conferences/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://dieruf.net/tags/conferences/</guid>
+      <guid>https://dieruf.net/tags/conferences/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>http://dieruf.net/tags/demo/</link>
+      <link>https://dieruf.net/tags/demo/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://dieruf.net/tags/demo/</guid>
+      <guid>https://dieruf.net/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://dieruf.net/tags/java/</link>
+      <link>https://dieruf.net/tags/java/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://dieruf.net/tags/java/</guid>
+      <guid>https://dieruf.net/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>polyglot</title>
-      <link>http://dieruf.net/tags/polyglot/</link>
+      <link>https://dieruf.net/tags/polyglot/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://dieruf.net/tags/polyglot/</guid>
+      <guid>https://dieruf.net/tags/polyglot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spring</title>
-      <link>http://dieruf.net/tags/spring/</link>
+      <link>https://dieruf.net/tags/spring/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://dieruf.net/tags/spring/</guid>
+      <guid>https://dieruf.net/tags/spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pivotal</title>
-      <link>http://dieruf.net/tags/pivotal/</link>
+      <link>https://dieruf.net/tags/pivotal/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/pivotal/</guid>
+      <guid>https://dieruf.net/tags/pivotal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>certificate</title>
-      <link>http://dieruf.net/tags/certificate/</link>
+      <link>https://dieruf.net/tags/certificate/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/certificate/</guid>
+      <guid>https://dieruf.net/tags/certificate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ssl</title>
-      <link>http://dieruf.net/tags/ssl/</link>
+      <link>https://dieruf.net/tags/ssl/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/ssl/</guid>
+      <guid>https://dieruf.net/tags/ssl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>smb</title>
-      <link>http://dieruf.net/tags/smb/</link>
+      <link>https://dieruf.net/tags/smb/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/smb/</guid>
+      <guid>https://dieruf.net/tags/smb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>steeltoe</title>
-      <link>http://dieruf.net/tags/steeltoe/</link>
+      <link>https://dieruf.net/tags/steeltoe/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/steeltoe/</guid>
+      <guid>https://dieruf.net/tags/steeltoe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>push app</title>
-      <link>http://dieruf.net/tags/push-app/</link>
+      <link>https://dieruf.net/tags/push-app/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/push-app/</guid>
+      <guid>https://dieruf.net/tags/push-app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloud</title>
-      <link>http://dieruf.net/tags/cloud/</link>
+      <link>https://dieruf.net/tags/cloud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/cloud/</guid>
+      <guid>https://dieruf.net/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>concourse</title>
-      <link>http://dieruf.net/tags/concourse/</link>
+      <link>https://dieruf.net/tags/concourse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/tags/concourse/</guid>
+      <guid>https://dieruf.net/tags/concourse/</guid>
       <description></description>
     </item>
     

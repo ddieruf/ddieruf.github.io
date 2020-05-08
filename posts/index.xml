@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on David Dieruf</title>
-    <link>http://dieruf.net/posts/</link>
+    <link>https://dieruf.net/posts/</link>
     <description>Recent content in Posts on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://dieruf.net/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dieruf.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ditch your domain joins and IWA in favor of single sign-on</title>
-      <link>http://dieruf.net/posts/ditch-your-domain-joins/</link>
+      <link>https://dieruf.net/posts/ditch-your-domain-joins/</link>
       <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/ditch-your-domain-joins/</guid>
+      <guid>https://dieruf.net/posts/ditch-your-domain-joins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>.NET and Kubernetes: Bringing Legacy .NET Into the Modern World with Pivotal Container Services</title>
-      <link>http://dieruf.net/posts/legacy-dotnet-pks/</link>
+      <link>https://dieruf.net/posts/legacy-dotnet-pks/</link>
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/legacy-dotnet-pks/</guid>
+      <guid>https://dieruf.net/posts/legacy-dotnet-pks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Windows Clusters on Kubernetes for Legacy .NET Applications Webinar</title>
-      <link>http://dieruf.net/posts/k8-windows-clusters/</link>
+      <link>https://dieruf.net/posts/k8-windows-clusters/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/k8-windows-clusters/</guid>
+      <guid>https://dieruf.net/posts/k8-windows-clusters/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learn Cloud-Native .NET Core Configuration Fundamentals with Steeltoe</title>
-      <link>http://dieruf.net/posts/dotnet-core-config-fundamentals/</link>
+      <link>https://dieruf.net/posts/dotnet-core-config-fundamentals/</link>
       <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/dotnet-core-config-fundamentals/</guid>
+      <guid>https://dieruf.net/posts/dotnet-core-config-fundamentals/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Polyglot PAS Demo</title>
-      <link>http://dieruf.net/posts/polyglot-pas-demo/</link>
+      <link>https://dieruf.net/posts/polyglot-pas-demo/</link>
       <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
       
-      <guid>http://dieruf.net/posts/polyglot-pas-demo/</guid>
+      <guid>https://dieruf.net/posts/polyglot-pas-demo/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
 &lt;p&gt;Mergers, acquisitions, skill-sets, policies, preferences, heritage, operating systems; there are many reasons why a polyglot approach keeps your business moving. As enterprises switch to cloud-native, many are inevitably challenged with finding solutions that welcome many different runtimes. “I just want one platform. A place where a developer can choose the best runtime for their business needs.”&lt;/p&gt;
 &lt;p&gt;In this talk, you&amp;rsquo;ll hear a heart-warming story of tight deadlines, disparate teams, and challenging communications coming together to beat the competition to market.&lt;/p&gt;
@@ -65,46 +65,46 @@
     
     <item>
       <title>Q&amp;A With Pivotal’s David Dieruf: How To Deliver Better Software with Greater Velocity</title>
-      <link>http://dieruf.net/posts/deliver-better-software/</link>
+      <link>https://dieruf.net/posts/deliver-better-software/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/deliver-better-software/</guid>
+      <guid>https://dieruf.net/posts/deliver-better-software/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simple Root Certificate Sharing for .NET Core Microservices With Steeltoe</title>
-      <link>http://dieruf.net/posts/root-certificate-sharing/</link>
+      <link>https://dieruf.net/posts/root-certificate-sharing/</link>
       <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/root-certificate-sharing/</guid>
+      <guid>https://dieruf.net/posts/root-certificate-sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Run .NET Framework Apps on a Modern Platform with an SMB Network Share? Steeltoe Makes It Easy.</title>
-      <link>http://dieruf.net/posts/smb-share-in-the-cloud/</link>
+      <link>https://dieruf.net/posts/smb-share-in-the-cloud/</link>
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/smb-share-in-the-cloud/</guid>
+      <guid>https://dieruf.net/posts/smb-share-in-the-cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Steeltoe: Modernize .Net Apps for a Microservices Architecture</title>
-      <link>http://dieruf.net/posts/modernize-with-steeltoe/</link>
+      <link>https://dieruf.net/posts/modernize-with-steeltoe/</link>
       <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/modernize-with-steeltoe/</guid>
+      <guid>https://dieruf.net/posts/modernize-with-steeltoe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Ready to cf push? Great! Now, Think About These 5 Things Before You Write a Line of Code.</title>
-      <link>http://dieruf.net/posts/cf-push/</link>
+      <link>https://dieruf.net/posts/cf-push/</link>
       <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://dieruf.net/posts/cf-push/</guid>
+      <guid>https://dieruf.net/posts/cf-push/</guid>
       <description></description>
     </item>
     
