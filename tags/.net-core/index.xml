@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.net core on David Dieruf</title>
+    <link>http://dieruf.net/tags/.net-core/</link>
+    <description>Recent content in .net core on David Dieruf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dieruf.net/tags/.net-core/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learn Cloud-Native .NET Core Configuration Fundamentals with Steeltoe</title>
+      <link>http://dieruf.net/posts/dotnet-core-config-fundamentals/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/dotnet-core-config-fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Root Certificate Sharing for .NET Core Microservices With Steeltoe</title>
+      <link>http://dieruf.net/posts/root-certificate-sharing/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/root-certificate-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steeltoe: Modernize .Net Apps for a Microservices Architecture</title>
+      <link>http://dieruf.net/posts/modernize-with-steeltoe/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/modernize-with-steeltoe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

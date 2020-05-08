@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on David Dieruf</title>
+    <link>http://dieruf.net/series/</link>
+    <description>Recent content in Series on David Dieruf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dieruf.net/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VMware Tanzu</title>
+      <link>http://dieruf.net/series/vmware-tanzu/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/series/vmware-tanzu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The New Stack</title>
+      <link>http://dieruf.net/series/the-new-stack/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/series/the-new-stack/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

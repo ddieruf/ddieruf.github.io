@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Webinar on David Dieruf</title>
+    <link>http://dieruf.net/categories/webinar/</link>
+    <description>Recent content in Webinar on David Dieruf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dieruf.net/categories/webinar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Using Windows Clusters on Kubernetes for Legacy .NET Applications Webinar</title>
+      <link>http://dieruf.net/posts/k8-windows-clusters/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/k8-windows-clusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Cloud-Native .NET Core Configuration Fundamentals with Steeltoe</title>
+      <link>http://dieruf.net/posts/dotnet-core-config-fundamentals/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/dotnet-core-config-fundamentals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>.NET Framework on David Dieruf</title>
+    <link>http://dieruf.net/tags/.net-framework/</link>
+    <description>Recent content in .NET Framework on David Dieruf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dieruf.net/tags/.net-framework/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ditch your domain joins and IWA in favor of single sign-on</title>
+      <link>http://dieruf.net/posts/ditch-your-domain-joins/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/ditch-your-domain-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET and Kubernetes: Bringing Legacy .NET Into the Modern World with Pivotal Container Services</title>
+      <link>http://dieruf.net/posts/legacy-dotnet-pks/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/legacy-dotnet-pks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Windows Clusters on Kubernetes for Legacy .NET Applications Webinar</title>
+      <link>http://dieruf.net/posts/k8-windows-clusters/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/k8-windows-clusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run .NET Framework Apps on a Modern Platform with an SMB Network Share? Steeltoe Makes It Easy.</title>
+      <link>http://dieruf.net/posts/smb-share-in-the-cloud/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/smb-share-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steeltoe: Modernize .Net Apps for a Microservices Architecture</title>
+      <link>http://dieruf.net/posts/modernize-with-steeltoe/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/modernize-with-steeltoe/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

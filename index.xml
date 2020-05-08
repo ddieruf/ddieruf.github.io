@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Dieruf</title>
+    <link>http://dieruf.net/</link>
+    <description>Recent content on David Dieruf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://dieruf.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ditch your domain joins and IWA in favor of single sign-on</title>
+      <link>http://dieruf.net/posts/ditch-your-domain-joins/</link>
+      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/ditch-your-domain-joins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>.NET and Kubernetes: Bringing Legacy .NET Into the Modern World with Pivotal Container Services</title>
+      <link>http://dieruf.net/posts/legacy-dotnet-pks/</link>
+      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/legacy-dotnet-pks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Windows Clusters on Kubernetes for Legacy .NET Applications Webinar</title>
+      <link>http://dieruf.net/posts/k8-windows-clusters/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/k8-windows-clusters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learn Cloud-Native .NET Core Configuration Fundamentals with Steeltoe</title>
+      <link>http://dieruf.net/posts/dotnet-core-config-fundamentals/</link>
+      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/dotnet-core-config-fundamentals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polyglot PAS Demo</title>
+      <link>http://dieruf.net/posts/polyglot-pas-demo/</link>
+      <pubDate>Mon, 06 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>http://dieruf.net/posts/polyglot-pas-demo/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;
+&lt;p&gt;Mergers, acquisitions, skill-sets, policies, preferences, heritage, operating systems; there are many reasons why a polyglot approach keeps your business moving. As enterprises switch to cloud-native, many are inevitably challenged with finding solutions that welcome many different runtimes. “I just want one platform. A place where a developer can choose the best runtime for their business needs.”&lt;/p&gt;
+&lt;p&gt;In this talk, you&amp;rsquo;ll hear a heart-warming story of tight deadlines, disparate teams, and challenging communications coming together to beat the competition to market.&lt;/p&gt;
+&lt;p&gt;Their secret? Going full cloud-native polyglot on Pivotal Application Service (PAS) and Azure, building a suite of microservices with Java, .Net, Spring Cloud Services, Steeltoe Framework, Linux, and Windows.&lt;/p&gt;
+&lt;p&gt;Attendees to this talk will leave equipped with an understanding of how PAS uses the Azure Cloud to create a secure, versatile, and resilient development environment. We’ll show how polyglot solutions can work seamlessly together using best of breed patterns and practices such as Eureka service discovery and Config Server. Additionally, we’ll use the Azure Service Broker to demonstrate quick and simple access to cloud services like Azure Storage and Azure Redis Cache.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://youtu.be/0mjmJKoOmKo&#34;&gt;Watch the video&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/pivotal/polyglot-pas-demo&#34;&gt;Grab the code&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Q&amp;A With Pivotal’s David Dieruf: How To Deliver Better Software with Greater Velocity</title>
+      <link>http://dieruf.net/posts/deliver-better-software/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/deliver-better-software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Root Certificate Sharing for .NET Core Microservices With Steeltoe</title>
+      <link>http://dieruf.net/posts/root-certificate-sharing/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/root-certificate-sharing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run .NET Framework Apps on a Modern Platform with an SMB Network Share? Steeltoe Makes It Easy.</title>
+      <link>http://dieruf.net/posts/smb-share-in-the-cloud/</link>
+      <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/smb-share-in-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steeltoe: Modernize .Net Apps for a Microservices Architecture</title>
+      <link>http://dieruf.net/posts/modernize-with-steeltoe/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/modernize-with-steeltoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Ready to cf push? Great! Now, Think About These 5 Things Before You Write a Line of Code.</title>
+      <link>http://dieruf.net/posts/cf-push/</link>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/posts/cf-push/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>http://dieruf.net/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/about/</guid>
+      <description>&lt;p&gt;&lt;figure&gt;
+    &lt;img src=&#34;http://dieruf.net/images/avatar.jpg&#34; height=&#34;300px&#34;/&gt; 
+&lt;/figure&gt;
+
+I took to technology in grade school. My best friend got two 486 desktops and a dog fighting game that claimed you could fly against each other. This was totally mind blowing! After many many many jumper configurations with the sound cards and some very crative serial networking, we did it! Little did I know I would be a life long technologist from that day forward.&lt;/p&gt;
+&lt;p&gt;I learned databasing and Active Server Pages in high school. The moment my web page updated based on data in my database, was also totally mind blowing! It was then that I was hooked on (what would become) .NET.&lt;/p&gt;
+&lt;p&gt;Out of high school I went a slightly different path than most. Armed with the web skills of ASP &amp;amp; Javascript and the databasing skills of Access &amp;amp; MS SQL, I decided to forgo college and move to California. Taking the world head-on was way more interesting than sitting in a classroom learning Pascal. After a few years writing code for startups the bubble burst and I took advantage of that time to do my dream job, building race cars. It was the hardest thing and the most wonderful thing all at the same time. I took me to my physical and mental limits on a weekly basis. Awesome!!&lt;/p&gt;
+&lt;p&gt;I worked on open wheel teams and sports car teams mostly, and as you can imagine could talk about all the amazing experiences for days. After deciding to settle down I started a computer consulting business in Louisville, Ky (thats home). It was tough&amp;hellip; not race car tough, but small business tough and it didn&amp;rsquo;t last long.&lt;/p&gt;
+&lt;p&gt;Turns out everything up to this point was just a test. Now life got crazy. Meeting the love of my life, having a beautiful baby boy, and being offered an amazing opportunity with Pivotal. Wow the years flew by!&lt;/p&gt;
+&lt;p&gt;Today I am a tech marketing manager at VMware, working on anything and everything .NET related. Still having so much fun!!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://dieruf.net/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/contact/</guid>
+      <description>&lt;p&gt;Follow me, &lt;a href=&#34;https://twitter.com/dierufdavid/&#34;&gt;@dierufdavid&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Email me, &lt;a href=&#34;mailto:david@dierufventures.com&#34;&gt;david@dierufventures.com&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Contribute with me, &lt;a href=&#34;https://github.com/ddieruf/&#34;&gt;github.com/ddieruf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Think with me, &lt;a href=&#34;https://www.youtube.com/channel/UCMg2uPix5ZKO4Vp52k5a6ZQ&#34;&gt;Thinking Machines Channel&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Stalk me, &lt;a href=&#34;https://www.linkedin.com/in/ddieruf/&#34;&gt;linkedin.com/in/ddieruf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First snippet</title>
+      <link>http://dieruf.net/snippets/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/snippets/first/</guid>
+      <description>&lt;p&gt;This content is in &lt;code&gt;snippets/first/index.md&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;&lt;span style=&#34;color:#fff;font-weight:bold&#34;&gt;pwd&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Second snippet</title>
+      <link>http://dieruf.net/snippets/second/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/snippets/second/</guid>
+      <description>&lt;p&gt;This content is in &lt;code&gt;snippets/second/index.md&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-sh&#34; data-lang=&#34;sh&#34;&gt;ls -la
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Steeltoe</title>
+      <link>http://dieruf.net/projects/steeltoe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/projects/steeltoe/</guid>
+      <description>&lt;p&gt;Not soon after joining Pivotal I was introduced to the Steeltoe project. Orginally it was meant to bring &lt;a href=&#34;https://spring.io/projects/spring-cloud&#34;&gt;Spring Cloud&lt;/a&gt; functions to .NET applications. Today it still keeps that core value but has expanded dramatically into other cloud functions to help .NET developers. It has also kept current with .NET&amp;rsquo;s evolution but supprting 2 different branches for legacy(Framework) and modern(Core &amp;amp; Standard) .NET.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://steeltoe.io&#34;&gt;Visit Steeltoe&amp;rsquo;s site&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/steeltoeoss&#34;&gt;Have a look at the project&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Windows Stemcell Concourse</title>
+      <link>http://dieruf.net/projects/windows-stemcell-concourse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dieruf.net/projects/windows-stemcell-concourse/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://github.com/cloudfoundry-community/windows-stemcell-concourse&#34;&gt;Have a look at the project&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
