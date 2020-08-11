@@ -21,29 +21,11 @@
     </item>
     
     <item>
-      <title>.NET and Kubernetes: Bringing Legacy .NET Into the Modern World with Pivotal Container Services</title>
-      <link>https://dieruf.net/posts/legacy-dotnet-pks/</link>
-      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dieruf.net/posts/legacy-dotnet-pks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Using Windows Clusters on Kubernetes for Legacy .NET Applications Webinar</title>
       <link>https://dieruf.net/posts/k8-windows-clusters/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dieruf.net/posts/k8-windows-clusters/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learn Cloud-Native .NET Core Configuration Fundamentals with Steeltoe</title>
-      <link>https://dieruf.net/posts/dotnet-core-config-fundamentals/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dieruf.net/posts/dotnet-core-config-fundamentals/</guid>
       <description></description>
     </item>
     

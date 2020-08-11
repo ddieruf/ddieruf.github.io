@@ -6,10 +6,64 @@
     <description>Recent content in Tags on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dieruf.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>.NET Core</title>
+      <link>https://dieruf.net/tags/.net-core/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieruf.net/tags/.net-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microservices</title>
+      <link>https://dieruf.net/tags/microservices/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieruf.net/tags/microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steeltoe</title>
+      <link>https://dieruf.net/tags/steeltoe/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieruf.net/tags/steeltoe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Develop Locally</title>
+      <link>https://dieruf.net/tags/develop-locally/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieruf.net/tags/develop-locally/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>https://dieruf.net/tags/docker/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieruf.net/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Studio</title>
+      <link>https://dieruf.net/tags/visual-studio/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieruf.net/tags/visual-studio/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>.NET Framework</title>
@@ -71,15 +125,6 @@
       <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dieruf.net/tags/windows-containers/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>.net core</title>
-      <link>https://dieruf.net/tags/.net-core/</link>
-      <pubDate>Fri, 19 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dieruf.net/tags/.net-core/</guid>
       <description></description>
     </item>
     
@@ -170,15 +215,6 @@
       <pubDate>Thu, 10 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://dieruf.net/tags/smb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>steeltoe</title>
-      <link>https://dieruf.net/tags/steeltoe/</link>
-      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://dieruf.net/tags/steeltoe/</guid>
       <description></description>
     </item>
     

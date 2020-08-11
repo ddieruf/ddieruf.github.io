@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Studio on David Dieruf</title>
+    <link>https://dieruf.net/tags/visual-studio/</link>
+    <description>Recent content in Visual Studio on David Dieruf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dieruf.net/tags/visual-studio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Developing Locally for the Cloud</title>
+      <link>https://dieruf.net/posts/developing-locally-for-the-cloud/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieruf.net/posts/developing-locally-for-the-cloud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

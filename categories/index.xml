@@ -6,26 +6,26 @@
     <description>Recent content in Categories on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dieruf.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blog</title>
-      <link>https://dieruf.net/categories/blog/</link>
-      <pubDate>Tue, 17 Dec 2019 00:00:00 +0000</pubDate>
+      <title>Video</title>
+      <link>https://dieruf.net/categories/video/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dieruf.net/categories/blog/</guid>
+      <guid>https://dieruf.net/categories/video/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Video</title>
-      <link>https://dieruf.net/categories/video/</link>
-      <pubDate>Thu, 17 Oct 2019 00:00:00 +0000</pubDate>
+      <title>Blog</title>
+      <link>https://dieruf.net/categories/blog/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dieruf.net/categories/video/</guid>
+      <guid>https://dieruf.net/categories/blog/</guid>
       <description></description>
     </item>
     

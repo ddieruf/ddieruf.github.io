@@ -6,10 +6,28 @@
     <description>Recent content on David Dieruf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://dieruf.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>.NET Conf: A journey into .NET microservices with Steeltoe</title>
+      <link>https://dieruf.net/posts/dotnet-conf-microservices/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieruf.net/posts/dotnet-conf-microservices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing Locally for the Cloud</title>
+      <link>https://dieruf.net/posts/developing-locally-for-the-cloud/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://dieruf.net/posts/developing-locally-for-the-cloud/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ditch your domain joins and IWA in favor of single sign-on</title>
